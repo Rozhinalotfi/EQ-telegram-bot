@@ -1,0 +1,3 @@
+QUESTION = 0
+GENDER = 1
+AGE = 2
